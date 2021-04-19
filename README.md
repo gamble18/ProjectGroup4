@@ -20,6 +20,8 @@ Business Rules
         7.	A restaurant rating system will be implemented. Each restaurant will have a restaurantRating. Restaurants will be rated on scale from 1 – 5. Each customer will                   have the option of giving 1 rating per order for their respective restaurant.
 
 EERD (full database)
+![image](https://user-images.githubusercontent.com/9091474/115177262-d8593780-a09c-11eb-8535-e4a82c62a829.png)
+
 
 MySQL Queries
 
