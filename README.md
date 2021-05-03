@@ -25,16 +25,24 @@ EERD (full database)
 
 MySQL Queries
 
-A)![image](https://user-images.githubusercontent.com/9091474/116835194-7665fb00-ab8f-11eb-8b86-a5d392cb7ef6.png)
-B)![image](https://user-images.githubusercontent.com/9091474/116835198-7cf47280-ab8f-11eb-9167-717d97a77ebd.png)
-C)![image](https://user-images.githubusercontent.com/9091474/116835201-81b92680-ab8f-11eb-921d-b8ba605add70.png)
-D)![image](https://user-images.githubusercontent.com/9091474/116835209-85e54400-ab8f-11eb-9084-999ebb883e2a.png)
-E)![image](https://user-images.githubusercontent.com/9091474/116835214-8aa9f800-ab8f-11eb-8648-737d6da1ce0e.png)
+A)
+![image](https://user-images.githubusercontent.com/9091474/116835194-7665fb00-ab8f-11eb-8b86-a5d392cb7ef6.png)
+B)
+![image](https://user-images.githubusercontent.com/9091474/116835198-7cf47280-ab8f-11eb-9167-717d97a77ebd.png)
+C)
+![image](https://user-images.githubusercontent.com/9091474/116835201-81b92680-ab8f-11eb-921d-b8ba605add70.png)
+D)
+![image](https://user-images.githubusercontent.com/9091474/116835209-85e54400-ab8f-11eb-9084-999ebb883e2a.png)
+E)
+![image](https://user-images.githubusercontent.com/9091474/116835214-8aa9f800-ab8f-11eb-8648-737d6da1ce0e.png)
 
 
 Stored Procedure
 
+Stored Procedure Creation
 ![image](https://user-images.githubusercontent.com/9091474/116835690-91396f00-ab91-11eb-9d2e-9aac9265bd76.png)
+
+Execution of Stored Procedure
 ![image](https://user-images.githubusercontent.com/9091474/116835670-7961eb00-ab91-11eb-93e1-ce828d7f0f6e.png)
 
 
