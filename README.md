@@ -2,7 +2,7 @@
 Project Group 4 for Introduction to Databases
 
 Introduction (Team, Project Description) - 
-        This project is for understanding and improving a database system used to provide college students will food delivery services. The intent is to develope and enhance the           database with a rating system for both restaurants and delivery drivers. Our team consists of Andrew, Harmony, John, and Brandon.
+        This project is for understanding and improving a database system used to provide college students will food delivery services. The intent is to develope and enhance the           database with a rating system for both restaurants and delivery drivers. Our team consists of Andrew and Harmony.
 
 Use Case for Rating System        
 Rating systems are a great way to maintain quality assurance amongst the service industry. Therefore, the project will be implementing two methods of rating. One for             rating drivers and the other for rating restaurants. These ratings will allow customers the ability to view the ratings each driver and restaurant has therefore                 helping them make an informed decision. Customers will be given the option of provided a single rating for their driver and a single rating for their restaurant per             order they make.
@@ -25,10 +25,26 @@ EERD (full database)
 
 MySQL Queries
 
+A)![image](https://user-images.githubusercontent.com/9091474/116835194-7665fb00-ab8f-11eb-8b86-a5d392cb7ef6.png)
+B)![image](https://user-images.githubusercontent.com/9091474/116835198-7cf47280-ab8f-11eb-9167-717d97a77ebd.png)
+C)![image](https://user-images.githubusercontent.com/9091474/116835201-81b92680-ab8f-11eb-921d-b8ba605add70.png)
+D)![image](https://user-images.githubusercontent.com/9091474/116835209-85e54400-ab8f-11eb-9084-999ebb883e2a.png)
+E)![image](https://user-images.githubusercontent.com/9091474/116835214-8aa9f800-ab8f-11eb-8648-737d6da1ce0e.png)
+
+
 Stored Procedure
+
+![image](https://user-images.githubusercontent.com/9091474/116835690-91396f00-ab91-11eb-9d2e-9aac9265bd76.png)
+![image](https://user-images.githubusercontent.com/9091474/116835670-7961eb00-ab91-11eb-93e1-ce828d7f0f6e.png)
+
 
 Web/App Implementation or Description of Future Work
 
+
+
 MySQL dump
+
+[Sp21.IS3510.Deliverables3.MySQLdump.zip](https://github.com/gamble18/ProjectGroup4/files/6412658/Sp21.IS3510.Deliverables3.MySQLdump.zip)
+
 
 PPT Video (link)
